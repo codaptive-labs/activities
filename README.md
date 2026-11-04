@@ -2,7 +2,7 @@
 
 Fifteen interactive learning activities (quizzes, drag and drop, sequencing, flashcards,
 hotspots, a crossword, a memory game, a branching scenario, an interactive book and
-more), each one self-contained HTML file built with the Canvas Interactive Builder skill
+more), each one self-contained HTML file built with the Activity Studio skill
 from Codaptive Labs.
 
 The index page lists every activity with the embed code to paste into a Canvas page:
